@@ -49,7 +49,7 @@ void setup() {
   textAlign(CENTER);
   
   instructions = "Enter Google TV device IP address:";
-  currentInput = "192.168.0.51";  // TODO debugging
+  currentInput = ""; 
 }
 
 void startKinect() {

@@ -2,7 +2,7 @@ Gesture-TV
 ==========
 
 <p>Gesture-TV allows you to control your Google TV with a <a href="http://www.xbox.com/en-US/KINECT">Kinect</a> sensor.
-A computer and a Microsoft Kinect sensor with a power adapter is required.</p>
+You need a computer and a Microsoft Kinect sensor with a power adapter.</p>
 
 <p>Gesture-TV is based on the <a href="https://code.google.com/p/simple-openni/">simple OpenNI wrapper</a> for <a href="http://processing.org/download/">Processing</a>.
 Follow the <a href="https://code.google.com/p/simple-openni/wiki/Installation">installation instructions</a> for your operating system.
@@ -18,7 +18,7 @@ Lift up one hand and wave it until you see red dots. Now everything is ready to 
 <p>There are two input modes:
 <ol>
 <li>Pointer mode: If you hold up one hand and keep the other down to your side. Move your hand to position the pointer. Push to select</li>
-<li>Gesture mode: If you hold up one hand and then the other. For the first hand, swipe up to go to go home or swipe left to go back.</li>
+<li>Gesture mode: If you hold up one hand and then the other. For the first hand, swipe down to go to go home or swipe left to go back.</li>
 </ol></p>
 
 <p>The mapping of hand movements to pointer positioning is very primitive and you might get into a situation where the location you want to reach on the screen is out of reach.
