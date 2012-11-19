@@ -24,6 +24,8 @@ Lift up one hand and wave it until you see red dots. Now everything is ready to 
 <p>The mapping of hand movements to pointer positioning is very primitive and you might get into a situation where the location you want to reach on the screen is out of reach.
 You can reset the pointer position by dropping your hand and then lifting it up again. You can also move the pointer against one of the screen edges to adjust the mapping.</p>
 
+<p>Watch this <a href="https://www.youtube.com/watch?v=XnU8W35WL5Q&feature=player_embedded">video</a> to see Gesture-TV in action.</p>
+
 <p>Note for developers: The Gesture-TV project includes the jar file for the <a href="https://github.com/entertailion/Anymote-for-Java">Anymote-for-Java</a> library in its lib directory. 
 Developers should check out that project and export a jar file for the latest version of the code. 
 When you export the Anymote-for-Java project as a jar file, do not include its lib directory since this project already includes those jar files.</p>
