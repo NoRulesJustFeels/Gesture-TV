@@ -17,8 +17,8 @@ Lift up one hand and wave it until you see red dots. Now everything is ready to 
 
 <p>There are two input modes:
 <ol>
-<li>Pointer mode: If you hold up one hand and keep the other down to your side. Move your hand to position the pointer. Push to select</li>
-<li>Gesture mode: If you hold up one hand and then the other. For the first hand, swipe down to go to go home or swipe left to go back.</li>
+<li>Pointer mode: If you hold up one hand and keep the other down to your side. Move your hand to position the pointer. Push to select.</li>
+<li>Gesture mode: If you hold up one hand and then the other. For the first hand, swipe down to go home or swipe left to go back.</li>
 </ol></p>
 
 <p>The mapping of hand movements to pointer positioning is very primitive and you might get into a situation where the location you want to reach on the screen is out of reach.
