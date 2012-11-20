@@ -22,7 +22,10 @@ Lift up one hand and wave it until you see red dots. Now everything is ready to 
 </ol></p>
 
 <p>The mapping of hand movements to pointer positioning is very primitive and you might get into a situation where the location you want to reach on the screen is out of reach.
-You can reset the pointer position by dropping your hand and then lifting it up again. You can also move the pointer against one of the screen edges to adjust the mapping.</p>
+You can reset the pointer position by dropping your hand and then lifting it up again. You can also move the pointer against one of the screen edges to adjust the mapping.
+Also, there are currently limitations in supporting navigation options like scrolling, so its not quite a complete replacement of the Google TV remote.
+Ideally, the Google TV user interface would need to be adjusted for this kind of interaction.
+</p>
 
 <p>Watch this <a href="https://www.youtube.com/watch?v=XnU8W35WL5Q&feature=player_embedded">video</a> to see Gesture-TV in action.</p>
 
